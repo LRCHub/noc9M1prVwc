@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "秘密のトワレ (GAME VERSION)",
+  "base_artist": "一ノ瀬志希(CV:藍原ことみ)",
+  "createdAt": "2026-03-10T07:15:29.378059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "秘密のトワレ",
+      "artist": "一ノ瀬志希 (CV: 藍原ことみ)",
+      "has_synced": false,
+      "path": "select/01_秘密のトワレ_一ノ瀬志希_(CV__藍原ことみ).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "秘密のトワレ",
+      "artist": "一ノ瀬志希(CV:藍原ことみ)",
+      "has_synced": false,
+      "path": "select/02_秘密のトワレ_一ノ瀬志希(CV_藍原ことみ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "秘密のトワレ (オリジナル・カラオケ)",
+      "artist": "一ノ瀬志希(CV:藍原ことみ)",
+      "has_synced": false,
+      "path": "select/03_秘密のトワレ_(オリジナル・カラオケ)_一ノ瀬志希(CV_藍原ことみ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "秘密のトワレ (オリジナル・カラオケ)",
+      "artist": "一ノ瀬志希",
+      "has_synced": false,
+      "path": "select/04_秘密のトワレ_(オリジナル・カラオケ)_一ノ瀬志希.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "秘密のトワレ",
+      "artist": "一ノ瀬志希 (藍原ことみ)",
+      "has_synced": false,
+      "path": "select/pl_01_秘密のトワレ_一ノ瀬志希_(藍原ことみ).txt"
+    }
+  ]
+}
